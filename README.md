@@ -5,6 +5,11 @@ A fully responsive and modern business landing page designed to help startups an
 🔗 Live Demo:
 https://code-solver-shubham.github.io/Business-Landing-Page/
 
+## 📸 Preview
+
+![Homepage](Screenshot.jpg)
+
+![Full Page](Screenshot2.jpg)
 ---
 
 ✨ Features
